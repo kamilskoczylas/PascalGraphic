@@ -1,0 +1,12 @@
+EFEKTY
+ikony\efekty.bmp
+GRAFIKA 3D
+ikony\3d.bmp
+OBRAZY
+ikony\obraz.bmp
+AUTOR
+ikony\autor.bmp
+OPIS
+ikony\opis.bmp
+ANIMACJE
+ikony\animacje.bmp

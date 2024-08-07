@@ -1,0 +1,7 @@
+6
+tekstury\Kawa.bmp
+tekstury\Babelki.bmp
+tekstury\mikro.bmp
+tekstury\Intro0.bmp
+tekstury\Intro1.bmp
+tekstury\Intro2.bmp

@@ -1,0 +1,11 @@
+bitmapy\ang.bmp
+bitmapy\pol.bmp
+bitmapy\kur.bmp
+czcionki\default.fnt
+tekstury\Kawa.bmp
+tekstury\Babelki.bmp
+tekstury\mikro.bmp
+tekstury\Intro0.bmp
+tekstury\Intro1.bmp
+tekstury\Intro2.bmp
+tekstury.txt
